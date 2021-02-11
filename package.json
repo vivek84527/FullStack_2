@@ -1,0 +1,22 @@
+{
+  "name": "fullstack_2",
+  "version": "1.0.0",
+  "description": "This is about Practical 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek84527/FullStack_2.git"
+  },
+  "author": "Vivek Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek84527/FullStack_2/issues"
+  },
+  "homepage": "https://github.com/vivek84527/FullStack_2#readme",
+  "dependencies": {
+    "mongoose": "^5.11.15"
+  }
+}
